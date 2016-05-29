@@ -4,3 +4,9 @@ C:\Users\vamsi\Source\Repos\MSPMeetProject\MSPMeetProject\MSPMeetProject\bin\Deb
 C:\Users\vamsi\Source\Repos\MSPMeetProject\MSPMeetProject\MSPMeetProject\bin\Debug\MSPMeetProject.pdb
 C:\Users\vamsi\Source\Repos\MSPMeetProject\MSPMeetProject\MSPMeetProject\obj\Debug\MSPMeetProject.exe
 C:\Users\vamsi\Source\Repos\MSPMeetProject\MSPMeetProject\MSPMeetProject\obj\Debug\MSPMeetProject.pdb
+C:\Users\Gaucho96\Source\Repos\MSPMeetProject\MSPMeetProject\MSPMeetProject\bin\Debug\MSPMeetProject.exe.config
+C:\Users\Gaucho96\Source\Repos\MSPMeetProject\MSPMeetProject\MSPMeetProject\obj\Debug\MSPMeetProject.csprojResolveAssemblyReference.cache
+C:\Users\Gaucho96\Source\Repos\MSPMeetProject\MSPMeetProject\MSPMeetProject\bin\Debug\MSPMeetProject.exe
+C:\Users\Gaucho96\Source\Repos\MSPMeetProject\MSPMeetProject\MSPMeetProject\bin\Debug\MSPMeetProject.pdb
+C:\Users\Gaucho96\Source\Repos\MSPMeetProject\MSPMeetProject\MSPMeetProject\obj\Debug\MSPMeetProject.exe
+C:\Users\Gaucho96\Source\Repos\MSPMeetProject\MSPMeetProject\MSPMeetProject\obj\Debug\MSPMeetProject.pdb
