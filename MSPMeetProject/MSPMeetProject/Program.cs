@@ -15,12 +15,25 @@ namespace MSPMeetProject
             Console.WriteLine("Addition is : " + (a + b));
            int x = multiplication(10, 20);
             Console.WriteLine("multiplication is : " + x);
+            Console.WriteLine("division is :" + division(20, 10));
             Console.Read();
         }
 
         public static int multiplication(int a, int b)
         {
             return a * b;
+        }
+
+        public static int division(int a, int b)
+        {
+            if (b!=0)
+            {
+                return a / b;
+            }
+            else
+            {
+                return 0;
+            }
         }
     }
 }
