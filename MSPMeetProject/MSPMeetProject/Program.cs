@@ -12,7 +12,7 @@ namespace MSPMeetProject
         {
             int a = 10;
             int b = 20;
-            Console.WriteLine("Addition is : " + (a + b));
+            Console.WriteLine("All is well");
            int x = multiplication(10, 20);
             Console.WriteLine("multiplication is : " + x);
             Console.WriteLine("division is :" + division(20, 10));
@@ -23,7 +23,7 @@ namespace MSPMeetProject
         {
             return a * b;
         }
-
+        Console.WriteLine("All is well");
         public static int division(int a, int b)
         {
             if (b!=0)
