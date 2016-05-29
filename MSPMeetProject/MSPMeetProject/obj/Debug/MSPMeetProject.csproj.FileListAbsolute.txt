@@ -1,1 +1,6 @@
 c:\users\vamsi\documents\visual studio 2013\Projects\MSPMeetProject\MSPMeetProject\bin\Debug\MSPMeetProject.exe.config
+C:\Users\vamsi\Source\Repos\MSPMeetProject\MSPMeetProject\MSPMeetProject\bin\Debug\MSPMeetProject.exe.config
+C:\Users\vamsi\Source\Repos\MSPMeetProject\MSPMeetProject\MSPMeetProject\bin\Debug\MSPMeetProject.exe
+C:\Users\vamsi\Source\Repos\MSPMeetProject\MSPMeetProject\MSPMeetProject\bin\Debug\MSPMeetProject.pdb
+C:\Users\vamsi\Source\Repos\MSPMeetProject\MSPMeetProject\MSPMeetProject\obj\Debug\MSPMeetProject.exe
+C:\Users\vamsi\Source\Repos\MSPMeetProject\MSPMeetProject\MSPMeetProject\obj\Debug\MSPMeetProject.pdb
